@@ -10,7 +10,7 @@
 
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Open Sans", "Helvetica", "sans-serif";
   font-size: 18px;
   background-color: #ffffff;
 }
@@ -18,7 +18,7 @@ p {
   font-weight: lighter;
 }
 h1, h2, h3 {
-  font-family: sans-serif;
+  font-family: "Poppins", "sans-serif";
   font-weight: bold;
 }
 h1 {
